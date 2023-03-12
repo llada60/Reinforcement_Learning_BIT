@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="45f33aca-c1ee-47b4-bfd4-b81a8bf14347" name="atari">
+        <fileTransfer accessType="SFTP" host="10.1.114.66" port="22" sshConfigId="a646a0e7-fd4d-4458-bfa2-4bfc38b5c045" sshConfig="lishuang@10.1.114.66:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4328d052-e48a-4632-afe5-5725f17ab69c" name="atari66">
+        <fileTransfer accessType="SFTP" host="10.1.114.66" port="22" sshConfigId="a646a0e7-fd4d-4458-bfa2-4bfc38b5c045" sshConfig="lishuang@10.1.114.66:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
